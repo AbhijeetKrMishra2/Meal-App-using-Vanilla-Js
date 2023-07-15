@@ -33,8 +33,6 @@ In the sidebar, you can remove meals from your favorites list by clicking the he
 
 # screenshot
 
-![image](https://github.com/AbhijeetKrMishra2/meal-app_CodingNinjas/assets/139151966/8c3a6c36-1ab4-4270-92b1-fe51913877a2)
-
 ![image](https://github.com/AbhijeetKrMishra2/meal-app_CodingNinjas/assets/139151966/bfcd0a09-c18b-4b35-80c8-fb93868347a3)
 
 ![image](https://github.com/AbhijeetKrMishra2/meal-app_CodingNinjas/assets/139151966/0e189e08-ca86-4d9d-a050-06d8bcf383fe)
