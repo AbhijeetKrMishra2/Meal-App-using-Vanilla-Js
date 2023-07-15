@@ -31,6 +31,33 @@ To add a meal to your favorites list, click the heart icon next to the meal's na
 To view your favorite meals, click the "Favorite List" button in the top right corner of the page. This will open a sidebar with your favorite meals.
 In the sidebar, you can remove meals from your favorites list by clicking the heart icon again.
 
+# screenshot
+
+![image](https://github.com/AbhijeetKrMishra2/meal-app_CodingNinjas/assets/139151966/8c3a6c36-1ab4-4270-92b1-fe51913877a2)
+
+![image](https://github.com/AbhijeetKrMishra2/meal-app_CodingNinjas/assets/139151966/bfcd0a09-c18b-4b35-80c8-fb93868347a3)
+
+![image](https://github.com/AbhijeetKrMishra2/meal-app_CodingNinjas/assets/139151966/0e189e08-ca86-4d9d-a050-06d8bcf383fe)
+
+![image](https://github.com/AbhijeetKrMishra2/meal-app_CodingNinjas/assets/139151966/951c255b-1cea-401a-9352-65c30e7e1ba9)
+
+![image](https://github.com/AbhijeetKrMishra2/meal-app_CodingNinjas/assets/139151966/a1ee0d8d-57f0-4bd7-bff3-49991f2dceee)
+
+![image](https://github.com/AbhijeetKrMishra2/meal-app_CodingNinjas/assets/139151966/127ea8c5-4a0d-4406-afe0-a4a845c04cfc)
+
+![image](https://github.com/AbhijeetKrMishra2/meal-app_CodingNinjas/assets/139151966/ad69603c-fd84-418f-98e8-979f9743edf5)
+
+![image](https://github.com/AbhijeetKrMishra2/meal-app_CodingNinjas/assets/139151966/dfcb786d-b415-42b9-a157-0e8c4c0990a3)
+
+![image](https://github.com/AbhijeetKrMishra2/meal-app_CodingNinjas/assets/139151966/3af5eadf-91df-496d-befd-5bba935ff7d2)
+
+
+
+
+
+
+
+
 # Hosted-Website Link : 
 
 https://abhijeetkrmishra2.github.io/meal-app_CodingNinjas/
