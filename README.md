@@ -15,10 +15,9 @@ Project Structure
 
 # The project consists of the following files:
 
-# index.html: The HTML structure of the app, including the main layout and elements.
-# style.css: The CSS styles for the app's layout and design.
-# script.js: The JavaScript code for handling API requests, displaying search results, managing favorites, and showing meal details.
-# README.md: A documentation file that provides an overview of the project.
+index.html  
+style.css  
+script.js
 
 # Usage
 To use the Foody App, follow these steps:
